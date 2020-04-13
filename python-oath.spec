@@ -4,8 +4,8 @@
 
 Summary:          Python implementation of HOTP, TOTP and OCRA
 Name:             python-%{pkgname}
-Version:          1.4.3
-Release:          CROC1%{?dist}
+Version:          1.4.4
+Release:          CROC0%{?dist}
 License:          BSD 3-clause
 Group:            Development/Libraries
 
